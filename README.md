@@ -56,6 +56,7 @@ Here you will find:
 - [stratascratch](https://www.stratascratch.com/) 
 - [hackerrank](https://www.hackerrank.com/)
 - [leetcode](https://leetcode.com/)
+- [dataexpert.io](https://dataengineer.io/questions)
 
 ## Portfolio Hosting Platforms
 
