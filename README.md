@@ -4,7 +4,7 @@ Below are the best resources I've found related to data analytics whether it's l
 
 Notes: 
 - This is also available on my website: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The difference between the repo and the website is the website contains my personal commentary on each of the resources, the repo only has the links. 
-- This repo includes 1 affiliate links, indicated with a * at the end for the course I built. If you decide to purchase the course through these links, I may receive a small commission at no extra cost to you. This support helps me continue to provide valuable content. Thank you for your support! Other links on this page are provided for info and aren’t affiliate links.
+- This repo includes 1 affiliate links, indicated with a * at the end for the course I built. If you decide to purchase the extras for the course through this link, I may receive a small commission at no extra cost to you. This support helps me continue to provide content. Thank you for your support! **All other links on this page *aren’t* affiliate links.**
 
 Please add any links you have found helpful with PR.
 
