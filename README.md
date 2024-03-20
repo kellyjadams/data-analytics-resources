@@ -8,7 +8,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Notes: 
 - **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). While the repo offers direct links, the blog post includes my personal commentary on each resource. I regularly update my blog with new resources and detailed commentary.
-- **Affiliate Link Disclosure**: Among all the resources listed, one contains an affiliate link (indicated with a *). This is for a course I created. Purchasing through this affiliate link may earn me a small commission at no extra cost to you. This support enables me to continue creating and sharing content. Thank you for your support! **All other links on this page are non-affiliate links.**
+- **Affiliate Link Disclosure**: There's one resource that contains an affiliate link (indicated with a *). This is for a course I created. Purchasing through this affiliate link may earn me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
 
 ## Overview
 
