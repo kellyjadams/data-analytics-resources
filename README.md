@@ -8,6 +8,8 @@ Notes:
 
 Please add any links you have found helpful with PR.
 
+## Overview
+
 Here you will find:
 
 - Course Platforms
@@ -20,8 +22,6 @@ Here you will find:
 - Podcasts
 - Websites
 - Newsletters
-
-# Technical Resources
 
 ## Course Platforms
 
@@ -72,8 +72,6 @@ Here you will find:
 - [NASA Data](https://data.nasa.gov/)
 - [Google BigQuery](https://cloud.google.com/bigquery/docs/sandbox)
 
-# Other Resources
-
 ## Youtube Channels
 
 - [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst)
@@ -113,6 +111,7 @@ Here you will find:
 - [Data & Impact](https://podcasts.apple.com/us/podcast/data-impact-a-passion2knowledge-experience/id1431897021)
 - [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/podcasts/)
 - [The Data Scientist Show](https://www.youtube.com/c/thedatascientistshow)
+  
 ## Websites
 
 - [Career Foundry (Data Analytics Blog)](https://careerfoundry.com/en/blog/data-analytics/)
