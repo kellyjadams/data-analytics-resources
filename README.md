@@ -39,12 +39,12 @@ Here you will find:
 ### Specific Courses
 
 - [Data Analyst Bootcamp (Free)](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) from [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) 
-- [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none)
-- [Data with Danny Serious SQL Course](https://www.datawithdanny.com/courses/serious-sql) 
+- [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none) 
+- [Data with Danny Serious SQL Course](https://www.datawithdanny.com/courses/serious-sql) from [Danny Ma](https://www.datawithdanny.com/)
 - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
-- [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt)
+- [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt) from [Luke Barousse](https://www.lukebarousse.com/)
 - [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 
 ## Practice Sites:
