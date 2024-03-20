@@ -1,6 +1,6 @@
 ## Data Analytics Resources
 
-Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. 
+Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. Most of these are related to data analytics but since there's so much overlap between data disciplines there are a few on data science or data engineering. 
 
 ### Contributing
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
@@ -22,6 +22,7 @@ Here you will find:
 - LinkedIn Creators
 - Podcasts
 - Websites
+- Books
 - Newsletters
 
 ---
@@ -120,6 +121,9 @@ Here you will find:
 - [Career Foundry (Data Analytics Blog)](https://careerfoundry.com/en/blog/data-analytics/)
 - [freeCodeCamp news](https://www.freecodecamp.org/news/)
 - [Towards Data Science](https://towardsdatascience.com/) on Medium
+
+## Books
+- 
 
 ## Newsletters
 
