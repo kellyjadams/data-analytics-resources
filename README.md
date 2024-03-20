@@ -1,12 +1,12 @@
 ## Data Analytics Resources
 
-Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. I will update these resources periodically as I find new resources. 
-
-Notes: 
-- This is also available on my website: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The difference between the repo and the website is the website contains my personal commentary on each of the resources, the repo only has the links. 
-- This repo includes 1 affiliate links, indicated with a * at the end for the course I built. If you decide to purchase the extras for the course through this link, I may receive a small commission at no extra cost to you. This support helps me continue to provide content. Thank you for your support! **All other links on this page *aren’t* affiliate links.**
+Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. 
 
 Please add any links you have found helpful with PR.
+
+Notes: 
+- This is also available as a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The difference between the repo and the blog post is the post contains my personal commentary on each of the resources, the repo only has the links. Anything I find particularly useful I will add to my blog with my commentary. 
+- This repo includes 1 affiliate links, indicated with a * at the end for the course I built. If you decide to purchase the extras for the course through this link, I may receive a small commission at no extra cost to you. This support helps me continue to provide content. Thank you for your support! **All other links on this page *aren’t* affiliate links.**
 
 ## Overview
 
@@ -42,7 +42,7 @@ Here you will find:
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt)
-- [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [I](https://www.kellyjadams.com/).
+- [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 
 ## Practice Sites:
 
