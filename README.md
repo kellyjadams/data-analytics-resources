@@ -77,12 +77,13 @@ Here you will find:
 - [NASA Data](https://data.nasa.gov/)
 - [Google BigQuery](https://cloud.google.com/bigquery/docs/sandbox)
 
-## Youtube Channels
+## YouTube Channels
 
 - [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst)
 - [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/featured) 
 - [Luke Barousse](https://www.youtube.com/c/LukeBarousse)
 - [Ken Jee](https://www.youtube.com/@KenJee_ds/featured)
+- [sqlbelle](https://www.youtube.com/c/sqlbelle)
 
 ## LinkedIn Creators
 
