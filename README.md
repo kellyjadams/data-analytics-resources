@@ -123,7 +123,12 @@ Here you will find:
 - [Towards Data Science](https://towardsdatascience.com/) on Medium
 
 ## Books
-- 
+- [Storytelling with Data](https://a.co/d/7ZkLYj1) by Cole Nussbaumer Knaflic
+- [Ace the Data Science Interview](https://a.co/d/64kIImN) by Nick Singh and Kevin Huo 
+- [How to Become a Data Analyst](https://a.co/d/3BUp5m4)  by Annie Nelson
+- [Becoming a Data Head](https://a.co/d/4fB31Aw) by Alex J. Gutman and Jordan Goldmeier
+- [How to Lie with Statistics](https://a.co/d/6AaKxB7) by Darrell Huff 
+- [How Charts Lie](https://a.co/d/fwnyO3j) by Alberto Cairo
 
 ## Newsletters
 
