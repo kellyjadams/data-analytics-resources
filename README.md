@@ -1,6 +1,8 @@
 ## Data Analytics Resources
 
-Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. Most of these are related to data analytics but since there's so much overlap between data disciplines there are a few on data science or data engineering. 
+Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. 
+
+Most of these are related to data analytics but since there's so much overlap between data disciplines there are a few on data science or data engineering. 
 
 ### Contributing
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
