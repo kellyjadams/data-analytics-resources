@@ -48,6 +48,7 @@ Here you will find:
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt) from [Luke Barousse](https://www.lukebarousse.com/)
 - [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
+- [How to Become a Data Analyst for Beginners - Under 2 Hours](https://youtube.com/playlist?list=PLXledyz7GVuI6L6NZfmwywMKXqCFd0OeK&si=TjaAAJOvN_HI9-HO)
 
 ## Practice Sites
 
