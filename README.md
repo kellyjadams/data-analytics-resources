@@ -19,11 +19,7 @@ Here you will find:
 
 # Technical Resources
 
-The following resources include everything technical about learning data analytics. From course platforms and specific courses to where you can practice your coding skills or host your portfolio.
-
 ## Course Platforms
-
-Websites where you can find specific courses on tools like SQL or Python. Some platforms go into more detail about the soft skills and how to break into tech as well.
 
 - [Coursera](https://www.coursera.org/)
 - [Maven Analytics](https://www.mavenanalytics.io/) 
@@ -34,8 +30,6 @@ Websites where you can find specific courses on tools like SQL or Python. Some p
 - [Analyst Builder](https://www.analystbuilder.com/) 
 
 ### Specific Courses
-
-Below are some specific courses I've taken and have personally used.
 
 - [Data Analyst Bootcamp (Free)](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) from [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) 
 - [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none)
@@ -49,8 +43,6 @@ Below are some specific courses I've taken and have personally used.
 
 ## Practice Sites:
 
-These sites are where you can practice your skills. Kind of like practice problems you would do during math classes. Most of these are free but may have a paid version. Some focus on interview questions that may be asked during technical interviews.
-
 - [DataLemur](https://datalemur.com/?referralCode=AbMUPIHm)
 - [W3Schools SQL Practice Problems](https://www.w3schools.com/sql/sql_exercises.asp)
 - [stratascratch](https://www.stratascratch.com/) 
@@ -59,17 +51,13 @@ These sites are where you can practice your skills. Kind of like practice proble
 
 ## Portfolio Hosting Platforms
 
-Below are a few sites where you can host your data analytics portfolio that don't require coding knowledge. Which one you choose depends on what skill/s you want to focus on showcasing.
-
 - [Github](https://github.com/)
 - [Maven Analytics](https://www.mavenanalytics.io/showcase)
 - [Tableau Public](https://public.tableau.com/app/discover)
 - [Carrd.co](https://carrd.co/) 
 - [novyPro](https://www.novypro.com/) (for PowerBI) 
 
-## Sites to Find Datasets
-
-Below are sites I've found free and public datasets.
+## Sites to Find Public Datasets
 
 - [Datahub](https://datahub.io/collections)
 - [Dataset Search](https://datasetsearch.research.google.com/) 
@@ -83,8 +71,6 @@ Below are sites I've found free and public datasets.
 
 # Other Resources
 
-These are other resources where you can learn more about data analytics. Specifically the soft skill side and learning how to break into the field.
-
 ## Youtube Channels
 
 - [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst)
@@ -93,8 +79,6 @@ These are other resources where you can learn more about data analytics. Specifi
 - [Ken Jee](https://www.youtube.com/@KenJee_ds/featured)
 
 ## LinkedIn Creators
-
-Below I've linked to some of my favorite LinkedIn creators and generally the topics they write about along with anything else I found useful from them. 
 
 - [Danny Ma](https://www.linkedin.com/in/datawithdanny/) 
 - [Avery Smith](https://www.linkedin.com/in/averyjsmith/) 
@@ -134,8 +118,6 @@ Below I've linked to some of my favorite LinkedIn creators and generally the top
 
 ## Newsletters
 
-Below are some of my favorite email newsletters. These are focused on data science or data analytics.
-
 - [The Automated](https://www.theautomated.co/) 
 - [Data Dad](https://www.datadad.io/tdhnewsletter)
 - [The Query](https://newsletter.thequery.io/)
@@ -143,8 +125,6 @@ Below are some of my favorite email newsletters. These are focused on data scien
 - [Jess Ramos Data](https://jess-ramos-data.ck.page/)
 
 ## Discord Communities
-
-Discord is usually used as a wave for gamers to talk with each other. But it's becoming more popular to be used for people with a common interest to chat and build a community. All the links below are the invites to the discord server and the creators' LinkedIn accounts.
 
 - [DataFrenchy Community](https://discord.gg/Nwps7yGheJ) (created by [Chris French](https://www.linkedin.com/in/chris-french-data/))
 - [Break into Data](https://discord.gg/kqQDVdhqFf) (created by [Meri Nova](https://www.linkedin.com/in/meri-bozulanova/))
