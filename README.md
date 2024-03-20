@@ -49,7 +49,7 @@ Here you will find:
 - [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt) from [Luke Barousse](https://www.lukebarousse.com/)
 - [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 
-## Practice Sites:
+## Practice Sites
 
 - [DataLemur](https://datalemur.com/?referralCode=AbMUPIHm)
 - [W3Schools SQL Practice Problems](https://www.w3schools.com/sql/sql_exercises.asp)
