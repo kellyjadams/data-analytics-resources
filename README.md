@@ -2,7 +2,11 @@
 
 Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. I will update these resources periodically as I find new resources. 
 
-This is also available on my website: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The difference between the repo and the website is the website contains my personal commentary on each of the resources, the repo only has the links. 
+Notes: 
+- This is also available on my website: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The difference between the repo and the website is the website contains my personal commentary on each of the resources, the repo only has the links. 
+- This repo includes 1 affiliate links, indicated with a * at the end for the course I built. If you decide to purchase the course through these links, I may receive a small commission at no extra cost to you. This support helps me continue to provide valuable content. Thank you for your support! Other links on this page are provided for info and aren’t affiliate links.
+
+Please add any links you have found helpful with PR.
 
 Here you will find:
 
@@ -37,9 +41,8 @@ Here you will find:
 - [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
-- ChatGPT for Data Analytics (https://youtu.be/uhyMqbZI6rM?feature=shared)
-- [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared) from [Luke Barousse](https://www.lukebarousse.com/a/2147831693/NY7yabZz) and [I](https://www.kellyjadams.com/).
-  - This is an affiliate links so if you purchase the course extras I will get a small commission with no extra cost to you. This is just to support future content creation.  
+- [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt)
+- [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [I](https://www.kellyjadams.com/).
 
 ## Practice Sites:
 
