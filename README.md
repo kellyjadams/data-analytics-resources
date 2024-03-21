@@ -105,6 +105,7 @@ Here you will find:
 - [Meri Nova](https://www.linkedin.com/in/meri-bozulanova/) 
 - [Drew Mooney](https://www.linkedin.com/in/drew-mooney-data/) 
 - [Mary Knoeferl](https://www.linkedin.com/in/mary-knoeferl/)
+- [Kelly Adams](https://www.linkedin.com/in/kellyjianadams/)
 
 ## Podcasts
 
