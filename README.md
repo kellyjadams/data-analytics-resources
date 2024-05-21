@@ -120,6 +120,7 @@ Here you will find:
 - [Data & Impact](https://podcasts.apple.com/us/podcast/data-impact-a-passion2knowledge-experience/id1431897021)
 - [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/podcasts/)
 - [The Data Scientist Show](https://www.youtube.com/c/thedatascientistshow)
+- [Women Lead Data Podcast](https://www.secoda.co/podcast)
   
 ## Websites
 
