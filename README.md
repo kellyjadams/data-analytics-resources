@@ -127,6 +127,8 @@ Here you will find:
 - [Career Foundry (Data Analytics Blog)](https://careerfoundry.com/en/blog/data-analytics/)
 - [freeCodeCamp news](https://www.freecodecamp.org/news/)
 - [Towards Data Science](https://towardsdatascience.com/) on Medium
+- [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) 
+
 
 ## Books
 - [Storytelling with Data](https://a.co/d/7ZkLYj1) by Cole Nussbaumer Knaflic
