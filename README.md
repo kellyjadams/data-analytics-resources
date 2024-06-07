@@ -8,7 +8,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Notes: 
 - **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). While the repo offers direct links, the blog post includes my personal commentary on each resource. I regularly update my blog with new resources and detailed commentary.
-- **Affiliate Link Disclosure**: There's one resource that contains an affiliate link (indicated with a *). This is for a course I created. Purchasing through this affiliate link may earn me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
+- **Affiliate Link Disclosure**: There's two resource that contains an affiliate link (indicated with a *). This is for the courses I've created. Purchasing through this affiliate link gives me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
 
 ## Overview
 
@@ -48,6 +48,7 @@ Here you will find:
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt) from [Luke Barousse](https://www.lukebarousse.com/)
 - [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
+- [Python for Data Analyitcs - Full Course Tutorial](https://www.lukebarousse.com/a/2147873313/NY7yabZz)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 - [How to Become a Data Analyst for Beginners - Under 2 Hours](https://youtube.com/playlist?list=PLXledyz7GVuI6L6NZfmwywMKXqCFd0OeK&si=TjaAAJOvN_HI9-HO)
 
 ## Practice Sites
