@@ -7,7 +7,7 @@ Since there's so much overlap between data disciplines.
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
 
 ### Notes: 
-- **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). While the repo offers direct links, the blog post includes my personal commentary on each resource. I regularly update my blog with new resources and detailed commentary.
+- **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The repo only has links and can contain links to resources I haven't personally used, while the blog post only includes resources I'm familiar with. I regularly update my blog with new resources and detailed commentary.
 - **Affiliate Link Disclosure**: There's two resource that contains an affiliate link (indicated with a *). This is for the courses I've created. Purchasing through this affiliate link gives me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
 
 ## Overview
