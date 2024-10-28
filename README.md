@@ -1,14 +1,13 @@
 ## Data Analytics Resources
 
-Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. While most of the links focus data analytics there's some that relate to data science. 
-Since there's so much overlap between data disciplines. 
+Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. While most of the links focus data analytics there's some that relate to data science. Since there's so much overlap between data disciplines. 
 
 ### Contributing
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
 
 ### Notes: 
-- **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The repo only has links and can contain links to resources I haven't personally used, while the blog post only includes resources I'm familiar with. I regularly update my blog with new resources and detailed commentary.
-- **Affiliate Link Disclosure**: There's two resource that contains an affiliate link (indicated with a *). This is for the courses I've created. Purchasing through this affiliate link gives me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
+- **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The repo only has links and can contain links to resources I haven't personally used, while the blog post only includes resources I'm familiar with. I regularly update my blog with new resources and detailed commentary. My blog post also has more affiliate links (specifically for books). 
+- **Affiliate Link Disclosure**: The only links that are affiliate links (indicated with a *) are for courses I've created. Purchasing through this affiliate link gives me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
 
 ## Overview
 
@@ -49,6 +48,7 @@ Here you will find:
 - [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt) from [Luke Barousse](https://www.lukebarousse.com/)
 - [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?feature=shared)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 - [Python for Data Analyitcs - Full Course Tutorial](https://www.lukebarousse.com/a/2147873313/NY7yabZz)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
+- [Excel for Data Analyitcs - Full Course for Beginners](https://www.lukebarousse.com/a/2147977813/NY7yabZz)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 - [How to Become a Data Analyst for Beginners - Under 2 Hours](https://youtube.com/playlist?list=PLXledyz7GVuI6L6NZfmwywMKXqCFd0OeK&si=TjaAAJOvN_HI9-HO)
 
 ## Practice Sites
@@ -107,6 +107,7 @@ Here you will find:
 - [Drew Mooney](https://www.linkedin.com/in/drew-mooney-data/) 
 - [Mary Knoeferl](https://www.linkedin.com/in/mary-knoeferl/)
 - [Kelly Adams](https://www.linkedin.com/in/kellyjianadams/)
+- [Dawn Choo](https://www.linkedin.com/in/data-dawn/)
 
 ## Podcasts
 
@@ -132,12 +133,36 @@ Here you will find:
 
 
 ## Books
+
+### Data Careers
 - [Storytelling with Data](https://a.co/d/7ZkLYj1) by Cole Nussbaumer Knaflic
 - [Ace the Data Science Interview](https://a.co/d/64kIImN) by Nick Singh and Kevin Huo 
 - [How to Become a Data Analyst](https://a.co/d/3BUp5m4)  by Annie Nelson
 - [Becoming a Data Head](https://a.co/d/4fB31Aw) by Alex J. Gutman and Jordan Goldmeier
 - [How to Lie with Statistics](https://a.co/d/6AaKxB7) by Darrell Huff 
 - [How Charts Lie](https://a.co/d/fwnyO3j) by Alberto Cairo
+
+### Technical Books
+- [Python for Data Analysis (3rd Edition)](https://amzn.to/48jSwj7) by Wes McKinney 
+- [SQL for Data Analysis](https://a.co/d/63MeilT) by Cathy Tanimura
+- [Practical Statistics for Data Scientists (2nd Edition)](https://a.co/d/1YkZaab) by Peter Bruce, Andrew Bruce, Peter Gedeck
+- [Essential Math for Data Science](https://a.co/d/iIWzb5C) by Thomas Nield
+- [Modern Data Analytics in Excel](https://a.co/d/6Wld3qf) by George Mount
+- [Excel 365 Bible](https://a.co/d/gZPOpZJ) by Michael Alexander, Dick Kusleika
+- [The Definitive Guide to DAX](https://a.co/d/b90GT5B) by Marco Russo, Alberto Ferrari
+- [Master Your Data with Power Query in Excel and Power BI](https://a.co/d/0dCssYI) by Miguel Escobar, Ken Puls
+
+### Soft Skills Books
+- [Storytelling with Data](https://a.co/d/bLLoTsK) by Cole Nussbaumer Knaflic
+- [Fierce Conversations](https://a.co/d/6ssUZ9E) by Susan Scott
+- [How to Talk to Anyone](https://a.co/d/cncBCCT) by Leil Lowndes
+- [Extreme Ownership](https://a.co/d/hDXMGZ9) by Jocko Willink, Leif Babin
+- [Never Split the Difference](https://a.co/d/i5pbWsn) by Chris Voss, Tahl Raz
+- [Influence: The Psychology of Persuasion](https://a.co/d/3dpOQP5) by Robert B. Cialdini
+- [Start with Why](https://a.co/d/bBB3p8L) by Simon Sinek by Simon Sinek
+- [Dare to Lead](https://a.co/d/2dyQFhP) by Brené Brown
+- [In Search of Excellence](https://a.co/d/4wJlKzP) by Thomas J. Peters, Robert H. Waterman Jr.
+- [The No Asshole Rule](https://a.co/d/ieF4WlE) by Robert I. Sutton
 
 ## Newsletters
 
