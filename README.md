@@ -175,6 +175,6 @@ Here you will find:
 
 ## Discord Communities
 
-- [DataFrenchy Community](https://discord.gg/Nwps7yGheJ) (created by [Chris French](https://www.linkedin.com/in/chris-french-data/))
-- [Break into Data](https://discord.gg/kqQDVdhqFf) (created by [Meri Nova](https://www.linkedin.com/in/meri-bozulanova/))
-- [Data in Motion](https://discord.gg/nsfMTQqqeA) (created by [Kedeisha Bryan](https://www.linkedin.com/in/kedeishabryan/))
+- DataFrenchy Community - Created by [Chris French](https://www.linkedin.com/in/chris-french-data/))
+- [Break into Data](https://discord.gg/kqQDVdhqFf) - Created by [Meri Nova](https://www.linkedin.com/in/meri-bozulanova/))
+- [Data in Motion](https://discord.gg/nsfMTQqqeA) - Created by [Kedeisha Bryan](https://www.linkedin.com/in/kedeishabryan/))
