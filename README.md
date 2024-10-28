@@ -135,7 +135,6 @@ Here you will find:
 ## Books
 
 ### Data Careers
-- [Storytelling with Data](https://a.co/d/7ZkLYj1) by Cole Nussbaumer Knaflic
 - [Ace the Data Science Interview](https://a.co/d/64kIImN) by Nick Singh and Kevin Huo 
 - [How to Become a Data Analyst](https://a.co/d/3BUp5m4)  by Annie Nelson
 
