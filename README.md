@@ -36,6 +36,7 @@ Here you will find:
 - [Datacamp](https://www.datacamp.com/)
 - [Codeacademy](https://www.codecademy.com/)
 - [Analyst Builder](https://www.analystbuilder.com/) 
+- [Scaler Academy](https://www.scaler.com/blog/is-software-engineering-a-good-career/) 
 
 ## Specific Courses
 
