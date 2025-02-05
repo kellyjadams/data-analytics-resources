@@ -131,6 +131,7 @@ Here you will find:
 - [freeCodeCamp news](https://www.freecodecamp.org/news/)
 - [Towards Data Science](https://towardsdatascience.com/) on Medium
 - [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) 
+- [Applied AI Blogs](https://www.appliedaicourse.com/blog/data-science-roles/)
 
 
 ## Books
