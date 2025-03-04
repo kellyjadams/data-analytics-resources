@@ -1,33 +1,73 @@
-## Data Analytics Resources
+# Data Analytics Resources
 
-Below are the best resources I've found related to data analytics whether it's learning new skills, hosting a portfolio, or get inspiration from creators. While most of the links focus data analytics there's some that relate to data science. Since there's so much overlap between data disciplines. 
+A list of tools, concepts, and learning resources for data analysts. This list covers essential technologies, platforms, and best practices. While most links focus on data analytics, some overlap with data science due to shared skills and concepts.
 
-### Contributing
+## 🖥️ Contributing
 Feel free to contribute to this list by adding links you've found helpful. Submit a Pull Request (PR) with your suggestions.
 
-### Notes: 
-- **Blog Post** - This repository complements a blog post: [Data Analytics Resources](https://www.kellyjadams.com/post/data-analytics-resources). The repo only has links and can contain links to resources I haven't personally used, while the blog post only includes resources I'm familiar with. I regularly update my blog with new resources and detailed commentary. My blog post also has more affiliate links (specifically for books). 
+## 📝 Notes: 
 - **Affiliate Link Disclosure**: The only links that are affiliate links (indicated with a *) are for courses I've created. Purchasing through this affiliate link gives me a small commission at no extra cost to you. This support lets me to continue creating and sharing content. Thank you for your support! **All other links on this readme are non-affiliate links.**
 
-## Overview
+## ⏰ Getting Started
+- Need real-world data? Check out [Sites to Find Public Datasets](#sites-to-find-public-datasets)
+- Looking for courses? See [Specific Courses](#specific-courses)
 
-Here you will find:
+## 🛠️ Tools
 
-- Course Platforms
-- Specific Courses
-- Practice Sites
-- Portfolio Hosting Platforms
-- Sites to Find Datasets
-- Youtube Channels
-- LinkedIn Creators
-- Podcasts
-- Websites
-- Books
-- Newsletters
+### SQL & Databases  
+- [SQL](https://www.w3schools.com/sql/) – Structured Query Language
+- [PostgreSQL](https://www.postgresql.org/) – Open-source relational database  
+- [BigQuery](https://cloud.google.com/bigquery) – Google’s serverless data warehouse  
+- [MySQL](https://www.mysql.com/) – Popular relational database  
 
----
+### Data Visualization  
+- [Tableau](https://www.tableau.com/) – Popular BI tool for dashboards  
+- [Power BI](https://powerbi.microsoft.com/) – Microsoft’s BI and reporting tool  
+- [Looker](https://looker.com/) – Data exploration and analytics  
 
-## Course Platforms
+### Programming Languages
+- [Python](https://www.python.org/) – Official Python website
+  - [Pandas](https://pandas.pydata.org/) – Data manipulation in Python  
+  - [NumPy](https://numpy.org/) – Numerical computing library  
+  - [Matplotlib](https://matplotlib.org/) – Basic visualization library  
+  - [Seaborn](https://seaborn.pydata.org/) – Statistical data visualization  
+- [R](https://www.r-project.org/) - Official R Website
+  - [tidyverse](https://www.tidyverse.org/) – Collection of R packages for data science  
+  - [ggplot2](https://ggplot2.tidyverse.org/) – Data visualization  
+  - [dplyr](https://dplyr.tidyverse.org/) – Data manipulation  
+  - [readr](https://readr.tidyverse.org/) – Read and write CSV, TSV, and other files  
+  - [tidyr](https://tidyr.tidyverse.org/) – Data cleaning and reshaping  
+
+### Spreadsheet Skills  
+- [Google Sheets](https://workspace.google.com/products/sheets/) - Google's version of spreadsheets
+- [Microsoft Excel]([https://www.excel-easy.com/](https://www.microsoft.com/en-us/microsoft-365/excel)) – Microsoft Excel spreadsheets
+
+### Version Control 
+- [Git](https://git-scm.com/) – Version control for data projects  
+- [GitHub](https://github.com/) – Code hosting & collaboration  
+
+## ✏️ Best Practices  
+
+⚠️ This section is still a work in progress. Feel free to contribute! ⚠️  
+
+### Data Cleaning & Preparation  
+- Use consistent naming conventions for tables and columns  
+- Remove duplicates and handle missing values properly  
+- Standardize date formats for consistency  
+
+### Query Optimization  
+- Use indexing to speed up queries in SQL databases  
+- Avoid SELECT * to improve performance  
+- Use aggregation functions (SUM, AVG, COUNT) efficiently  
+
+### Data Storytelling  
+- Focus on **clarity** – Keep visualizations simple and effective  
+- Use **annotations** – Explain key trends and insights  
+- Provide **context** – Frame analysis with business impact  
+
+## 📚 Learning Resources
+
+### Course Platforms
 
 - [Coursera](https://www.coursera.org/)
 - [Maven Analytics](https://www.mavenanalytics.io/) 
@@ -38,7 +78,7 @@ Here you will find:
 - [Analyst Builder](https://www.analystbuilder.com/) 
 - [Scaler Academy](https://www.scaler.com/blog/is-software-engineering-a-good-career/) 
 
-## Specific Courses
+### Specific Courses
 
 - [Data Analyst Bootcamp (Free)](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) from [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) 
 - [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none) 
@@ -52,7 +92,7 @@ Here you will find:
 - [Excel for Data Analyitcs - Full Course for Beginners](https://www.lukebarousse.com/a/2147977813/NY7yabZz)* from [Luke Barousse](https://www.lukebarousse.com/) and [Kelly Adams](https://www.kellyjadams.com/).
 - [How to Become a Data Analyst for Beginners - Under 2 Hours](https://youtube.com/playlist?list=PLXledyz7GVuI6L6NZfmwywMKXqCFd0OeK&si=TjaAAJOvN_HI9-HO)
 
-## Practice Sites
+### Practice Sites
 
 - [DataLemur](https://datalemur.com/?referralCode=AbMUPIHm)
 - [W3Schools SQL Practice Problems](https://www.w3schools.com/sql/sql_exercises.asp)
@@ -61,7 +101,7 @@ Here you will find:
 - [leetcode](https://leetcode.com/)
 - [dataexpert.io](https://dataengineer.io/questions)
 
-## Portfolio Hosting Platforms
+### Portfolio Hosting Platforms
 
 - [Github](https://github.com/)
 - [Maven Analytics](https://www.mavenanalytics.io/showcase)
@@ -69,7 +109,7 @@ Here you will find:
 - [Carrd.co](https://carrd.co/) 
 - [novyPro](https://www.novypro.com/) (for PowerBI) 
 
-## Sites to Find Public Datasets
+### Sites to Find Public Datasets
 
 - [Datahub](https://datahub.io/collections)
 - [Dataset Search](https://datasetsearch.research.google.com/) 
@@ -81,7 +121,7 @@ Here you will find:
 - [NASA Data](https://data.nasa.gov/)
 - [Google BigQuery](https://cloud.google.com/bigquery/docs/sandbox)
 
-## YouTube Channels
+### YouTube Channels
 
 - [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst)
 - [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/featured) 
@@ -89,7 +129,7 @@ Here you will find:
 - [Ken Jee](https://www.youtube.com/@KenJee_ds/featured)
 - [sqlbelle](https://www.youtube.com/c/sqlbelle)
 
-## LinkedIn Creators
+### LinkedIn Creators
 
 - [Danny Ma](https://www.linkedin.com/in/datawithdanny/) 
 - [Avery Smith](https://www.linkedin.com/in/averyjsmith/) 
@@ -110,7 +150,7 @@ Here you will find:
 - [Kelly Adams](https://www.linkedin.com/in/kellyjianadams/)
 - [Dawn Choo](https://www.linkedin.com/in/data-dawn/)
 
-## Podcasts
+### Podcasts
 
 - [Data Career Podcast](https://anchor.fm/datacareerpodcast) 
 - [How to Get an Analytics Job](https://www.youtube.com/@howtogetananalyticsjob336/featured)
@@ -125,7 +165,7 @@ Here you will find:
 - [The Data Scientist Show](https://www.youtube.com/c/thedatascientistshow)
 - [Women Lead Data Podcast](https://www.secoda.co/podcast)
   
-## Websites
+### Websites
 
 - [Career Foundry (Data Analytics Blog)](https://careerfoundry.com/en/blog/data-analytics/)
 - [freeCodeCamp news](https://www.freecodecamp.org/news/)
@@ -133,14 +173,13 @@ Here you will find:
 - [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) 
 - [Applied AI Blogs](https://www.appliedaicourse.com/blog/data-science-roles/)
 
+### Books
 
-## Books
-
-### Data Careers
+#### Data Careers
 - [Ace the Data Science Interview](https://a.co/d/64kIImN) by Nick Singh and Kevin Huo 
 - [How to Become a Data Analyst](https://a.co/d/3BUp5m4)  by Annie Nelson
 
-### Technical Books
+#### Technical Books
 - [Python for Data Analysis (3rd Edition)](https://amzn.to/48jSwj7) by Wes McKinney 
 - [SQL for Data Analysis](https://a.co/d/63MeilT) by Cathy Tanimura
 - [Practical Statistics for Data Scientists (2nd Edition)](https://a.co/d/1YkZaab) by Peter Bruce, Andrew Bruce, Peter Gedeck
@@ -150,7 +189,7 @@ Here you will find:
 - [The Definitive Guide to DAX](https://a.co/d/b90GT5B) by Marco Russo, Alberto Ferrari
 - [Master Your Data with Power Query in Excel and Power BI](https://a.co/d/0dCssYI) by Miguel Escobar, Ken Puls
 
-### Soft Skills Books
+#### Soft Skills Books
 - [Storytelling with Data](https://a.co/d/bLLoTsK) by Cole Nussbaumer Knaflic
 - [Fierce Conversations](https://a.co/d/6ssUZ9E) by Susan Scott
 - [How to Talk to Anyone](https://a.co/d/cncBCCT) by Leil Lowndes
@@ -167,7 +206,7 @@ Here you will find:
 - [How Charts Lie](https://a.co/d/fwnyO3j) by Alberto Cairo
 - [Becoming a Data Head](https://a.co/d/4fB31Aw) by Alex J. Gutman and Jordan Goldmeier
 
-## Newsletters
+### Newsletters
 
 - [The Automated](https://www.theautomated.co/) 
 - [Data Dad](https://www.datadad.io/tdhnewsletter)
@@ -175,7 +214,7 @@ Here you will find:
 - [The Data Career](https://thdatapoint.substack.com/)
 - [Jess Ramos Data](https://jess-ramos-data.ck.page/)
 
-## Discord Communities
+### Discord Communities
 
 - DataFrenchy Community - Created by [Chris French](https://www.linkedin.com/in/chris-french-data/))
 - [Break into Data](https://discord.gg/kqQDVdhqFf) - Created by [Meri Nova](https://www.linkedin.com/in/meri-bozulanova/))
