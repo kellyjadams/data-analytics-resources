@@ -208,6 +208,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Newsletters
 
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, ranked and explained for 53,000+ professionals.
 - [The Automated](https://www.theautomated.co/) 
 - [Data Dad](https://www.datadad.io/tdhnewsletter)
 - [The Query](https://newsletter.thequery.io/)
