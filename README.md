@@ -94,6 +94,7 @@ Feel free to contribute to this list by adding links you've found helpful. Submi
 
 ### Practice Sites
 
+- [FormulaSmith](https://formulasmith.com/en/practice/) - Free Excel formula exercises with accepted-answer checks; no signup.
 - [DataLemur](https://datalemur.com/?referralCode=AbMUPIHm)
 - [W3Schools SQL Practice Problems](https://www.w3schools.com/sql/sql_exercises.asp)
 - [stratascratch](https://www.stratascratch.com/) 
